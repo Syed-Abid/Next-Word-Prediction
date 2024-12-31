@@ -2,7 +2,6 @@
 
 Welcome to the **Next Word Prediction** repository! This project is part of my university course on **Natural Language Processing (NLP)** and demonstrates the use of **Long Short-Term Memory (LSTM)** networks to predict the next word in a sequence.  
 
----
 
 ## 💻 Project Overview  
 - **Course**: Natural Language Processing  
@@ -12,7 +11,6 @@ Welcome to the **Next Word Prediction** repository! This project is part of my u
   - Optimized for sequence prediction using preprocessed text data.  
 - **Deliverable**: A comprehensive **Jupyter Notebook** detailing the implementation, training process, and results.
 
----
 
 ## 🛠️ Tools and Technologies  
 - **Programming Language**: Python  
@@ -22,7 +20,6 @@ Welcome to the **Next Word Prediction** repository! This project is part of my u
   - Pandas (data preprocessing)  
   - Matplotlib (visualizations)  
 
----
 
 ## 🚀 Key Highlights  
 - Preprocessed text data for optimal input to the LSTM model.  
