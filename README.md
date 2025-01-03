@@ -31,7 +31,7 @@ Welcome to the **Next Word Prediction** repository! This project is part of my u
 ## Confusion Matrix
 
 <div align="center">
-  <img src="" alt="Confusion Matrix">
+  <img src="https://github.com/Syed-Abid/Next-Word-Prediction/blob/main/Confusion%20Matrix.png" alt="Confusion Matrix">
 </div>
 
 
